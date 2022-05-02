@@ -1,0 +1,15 @@
+C:\Users\jaze.tomaz\Documents\Aprendendo programação\C#\Orientação a objetos\bin\Debug\net6.0\Orientação a objetos.exe
+C:\Users\jaze.tomaz\Documents\Aprendendo programação\C#\Orientação a objetos\bin\Debug\net6.0\Orientação a objetos.deps.json
+C:\Users\jaze.tomaz\Documents\Aprendendo programação\C#\Orientação a objetos\bin\Debug\net6.0\Orientação a objetos.runtimeconfig.json
+C:\Users\jaze.tomaz\Documents\Aprendendo programação\C#\Orientação a objetos\bin\Debug\net6.0\Orientação a objetos.dll
+C:\Users\jaze.tomaz\Documents\Aprendendo programação\C#\Orientação a objetos\bin\Debug\net6.0\Orientação a objetos.pdb
+C:\Users\jaze.tomaz\Documents\Aprendendo programação\C#\Orientação a objetos\obj\Debug\net6.0\Orientação a objetos.csproj.AssemblyReference.cache
+C:\Users\jaze.tomaz\Documents\Aprendendo programação\C#\Orientação a objetos\obj\Debug\net6.0\Orientação a objetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaze.tomaz\Documents\Aprendendo programação\C#\Orientação a objetos\obj\Debug\net6.0\Orientação a objetos.AssemblyInfoInputs.cache
+C:\Users\jaze.tomaz\Documents\Aprendendo programação\C#\Orientação a objetos\obj\Debug\net6.0\Orientação a objetos.AssemblyInfo.cs
+C:\Users\jaze.tomaz\Documents\Aprendendo programação\C#\Orientação a objetos\obj\Debug\net6.0\Orientação a objetos.csproj.CoreCompileInputs.cache
+C:\Users\jaze.tomaz\Documents\Aprendendo programação\C#\Orientação a objetos\obj\Debug\net6.0\Orientação a objetos.dll
+C:\Users\jaze.tomaz\Documents\Aprendendo programação\C#\Orientação a objetos\obj\Debug\net6.0\refint\Orientação a objetos.dll
+C:\Users\jaze.tomaz\Documents\Aprendendo programação\C#\Orientação a objetos\obj\Debug\net6.0\Orientação a objetos.pdb
+C:\Users\jaze.tomaz\Documents\Aprendendo programação\C#\Orientação a objetos\obj\Debug\net6.0\Orientação a objetos.genruntimeconfig.cache
+C:\Users\jaze.tomaz\Documents\Aprendendo programação\C#\Orientação a objetos\obj\Debug\net6.0\ref\Orientação a objetos.dll
