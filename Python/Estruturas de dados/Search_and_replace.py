@@ -13,8 +13,3 @@ great1 = '      hello bob       '
 great2 = great1.lstrip()
 great3 = great1.rstrip()
 great4 = great1.strip()
-
-print(great1)
-print(great2)
-print(great3)
-print(great4)

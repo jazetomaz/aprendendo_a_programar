@@ -7,12 +7,3 @@ class Oi
         Console.WriteLine("Hello World!");
     }
 }
-
-class Hello
-{
-    static void Main()
-    {
-        Console.WriteLine("Olá mundo!");
-
-    }
-}
