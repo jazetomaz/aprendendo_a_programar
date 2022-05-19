@@ -13,5 +13,14 @@ for line in handle:
     line = line[1]
     counts[line] = counts.get(line, 0) + 1
 
-    # print(line)
-print(counts)
+bigvalor = None
+bigmail = None
+
+for mail, valor in counts.items():
+    print(max(valor))
+    if bigvalor is None or valor > bigvalor:
+        bigvalor = valor
+        bigmail = mail
+
+
+#print(bigmail, bigvalor)

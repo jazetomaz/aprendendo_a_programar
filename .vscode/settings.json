@@ -2,6 +2,8 @@
     "python.linting.pylintEnabled": true,
     "python.linting.enabled": false,
     "cSpell.words": [
+        "bigmail",
+        "bigvalor",
         "fval",
         "hrsamais",
         "mbox",
