@@ -1,0 +1,15 @@
+C:\Users\jaze.tomaz\Documents\Aprendendo programação\C#\Start\bin\Debug\net6.0\Start.exe
+C:\Users\jaze.tomaz\Documents\Aprendendo programação\C#\Start\bin\Debug\net6.0\Start.deps.json
+C:\Users\jaze.tomaz\Documents\Aprendendo programação\C#\Start\bin\Debug\net6.0\Start.runtimeconfig.json
+C:\Users\jaze.tomaz\Documents\Aprendendo programação\C#\Start\bin\Debug\net6.0\Start.dll
+C:\Users\jaze.tomaz\Documents\Aprendendo programação\C#\Start\bin\Debug\net6.0\Start.pdb
+C:\Users\jaze.tomaz\Documents\Aprendendo programação\C#\Start\obj\Debug\net6.0\Start.csproj.AssemblyReference.cache
+C:\Users\jaze.tomaz\Documents\Aprendendo programação\C#\Start\obj\Debug\net6.0\Start.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaze.tomaz\Documents\Aprendendo programação\C#\Start\obj\Debug\net6.0\Start.AssemblyInfoInputs.cache
+C:\Users\jaze.tomaz\Documents\Aprendendo programação\C#\Start\obj\Debug\net6.0\Start.AssemblyInfo.cs
+C:\Users\jaze.tomaz\Documents\Aprendendo programação\C#\Start\obj\Debug\net6.0\Start.csproj.CoreCompileInputs.cache
+C:\Users\jaze.tomaz\Documents\Aprendendo programação\C#\Start\obj\Debug\net6.0\Start.dll
+C:\Users\jaze.tomaz\Documents\Aprendendo programação\C#\Start\obj\Debug\net6.0\refint\Start.dll
+C:\Users\jaze.tomaz\Documents\Aprendendo programação\C#\Start\obj\Debug\net6.0\Start.pdb
+C:\Users\jaze.tomaz\Documents\Aprendendo programação\C#\Start\obj\Debug\net6.0\Start.genruntimeconfig.cache
+C:\Users\jaze.tomaz\Documents\Aprendendo programação\C#\Start\obj\Debug\net6.0\ref\Start.dll
